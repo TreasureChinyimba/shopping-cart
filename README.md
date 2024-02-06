@@ -23,14 +23,7 @@ Built with:
 - Bootstrap
 - JavaScript
 
-## Screenshots
 
-
-![](images/1.jpeg)
-
-![](images/2.jpeg)
-
-![](images/4.jpeg)
 
 
 
